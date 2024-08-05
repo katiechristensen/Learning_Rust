@@ -1,2 +1,1 @@
-# Learning_Rust
-Toy repository for learning the Rust programming language.
+# Toy repository for learning the Rust programming language.
